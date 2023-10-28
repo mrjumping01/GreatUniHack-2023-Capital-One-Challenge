@@ -1,2 +1,2 @@
 # GreatUniHack-2023-Capital-One-Challenge
-This is the Challenge proposed by Capitol One @GreatUniHack
+This is a solution to the challenge proposed by Capitol One @GreatUniHack 2023. 
